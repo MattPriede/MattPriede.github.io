@@ -1,0 +1,22 @@
+html {
+   margin: 0px;
+   height: 100%;
+   width: 100%;
+}
+
+body {
+   margin: 0px;
+   min-height: 100%;
+   width: 100%;
+}
+
+body {background: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FTeBpzQZRaBIC4%2Fsource.gif&f=1&nofb=1), url(https://cdn-vzn.yottaa.net/522783d2ea2e0c1df40000bd/64fd5e204b88013497b60a3ba3fac80a.yottaa.net/v~4b.b98/cdn.lehmans.com/images/large/1082600.jpg?yocs=17_1c_);
+    background-repeat: no-repeat;
+    background-position: right bottom, center;
+    background-size: 100px 150px, contain;
+}
+.pet {
+  background: yellow;
+}
+.completed {
+  text-decoration: line-through}
